@@ -1,0 +1,23 @@
+Add here the classes like this structure example:
+
+c1/
+--img1.jpg
+--img2.jpg
+--etc
+c2/
+--img1.jpg
+--img2.jpg
+--etc
+c3/
+--img1.jpg
+--img2.jpg
+--etc
+
+.
+.
+.
+
+c{last_index_of_class}/
+--img1.jpg
+--img2.jpg
+--etc

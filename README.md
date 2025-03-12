@@ -26,6 +26,7 @@ This project specifically addresses driver distraction detection by classifying 
 ├── onnx_export.ipynb
 ├── onnx_inference.ipynb
 └── README.md
+```
 
 ## Setup
 ### Dependencies
